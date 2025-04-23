@@ -10,5 +10,9 @@ public class Class1
 		//
 		// TODO: Add constructor logic here
 		//
+		public void sum()
+		{
+			1+1=2;
+		}
 	}
 }
